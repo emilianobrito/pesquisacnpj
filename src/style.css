@@ -1,5 +1,81 @@
+/* img = tag, .img = class, #img = id, * = todos */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: "Roboto", sans-serif; 
+    font-size: 20px; 
+    overflow: hidden; /* Remove conteúdo que exceda as dimensões da página */
+}
+
+  /* estilo do Título */
+h1 {
+    color: #3a8970;
+    font-size: 60px;
+    font-weight: 200;
+}
+input{
+    width: 18em;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 20px;
+    padding: 0.8em;
+
+}
+/* estilo de texto em campo de formulário */
+input::placeholder {
+    color: #777;
+}
+
+button {
+    background-color: #3a8970;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+
+    align-items: center;
+    height: 3em;
+    width: 8em;
+    border: none;
+    border-radius: 3em;
+
+    margin-left: 1em;
+    transition: background-color 0.2s;
+}
+/* estilo do ícone building usando fontawesome */
+.building-icon {
+    color: #3a8970;
+    font-size: 48px;
+    margin-right: 40px; 
+}
+.main{
+    height: 100%;
+}
+.margin{
+    position: relative;
+    margin: auto;
+    margin: 2em 0;
+}
 .centro{
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-verde{
+    flex-direction: column;
+    color: #fff;
+    height: 70vh;
+    font-size: 16px; 
+    background: linear-gradient(90deg, #388669 0%, #459a9e 100%);
+}
+.img{ 
+    width: 200px;
+    height: 200px;
+}
+.teste{
+    position: initial !important;
 }
