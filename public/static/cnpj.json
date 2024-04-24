@@ -1,0 +1,52 @@
+[
+  {
+    "Nome": "Nome da empresa 1",
+    "CNPJ": "01", 
+    "Endereço": "endereço empresa 1"
+  },
+  {
+    "Nome": "Nome da empresa 2",
+    "CNPJ": "02", 
+    "Endereço": "endereço empresa 2"
+  },
+  {
+    "Nome": "Nome da empresa 3",
+    "CNPJ": "03", 
+    "Endereço": "endereço empresa 3"
+  },
+  {
+    "Nome": "Nome da empresa 4",
+    "CNPJ": "04",
+    "Endereço": "endereço empresa 4"
+  },
+  {
+    "Nome": "Nome da empresa 5",
+    "CNPJ": "05", 
+    "Endereço": "endereço empresa 5"
+  },
+  {
+    "Nome": "Nome da empresa 6",
+    "CNPJ": "06", 
+    "Endereço": "endereço empresa 6"
+  },
+  {
+    "Nome": "Nome da empresa 7",
+    "CNPJ": "07", 
+    "Endereço": "endereço empresa 7"
+  },
+  {
+    "Nome": "Nome da empresa 8",
+    "CNPJ": "08", 
+    "Endereço": "endereço empresa 8"
+  },
+  {
+    "Nome": "Nome da empresa 9",
+    "CNPJ": "09",
+    "Endereço": "endereço empresa 9"
+  },
+  {
+    "Nome": "Nome da empresa 10",
+    "CNPJ": "10", 
+    "Endereço": "endereço empresa 10"
+  }
+]
